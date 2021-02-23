@@ -126,7 +126,6 @@ while N != 1:
         N -= 1
         count += 1
 print(count)
-
 ```
 
 ### :pencil2: 문제 해설
