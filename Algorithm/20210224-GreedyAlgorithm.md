@@ -1,4 +1,4 @@
-## :star: Greedy Algorithm (Reference : 이것이 코딩테스트이다.)
+## :star: Greedy Algorithm (Reference : 이것이 코딩테스트다.)
 
 ### 1. 당장 좋은 것만 선택하는 그리디
 
