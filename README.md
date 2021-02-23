@@ -10,7 +10,7 @@
 
 - file name : date_title
 
-    - ex) 20210203_git.md
+    - ex) 20210203-git.md
 
 ### 📂 Category
 
@@ -20,3 +20,4 @@
 - 이것이 취업을 위한 코딩테스트다
 
     - [PythonGrammar](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210223-PythonGrammar.md)
+    - [GreedyAlgorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210224-GreedyAlgorithm.md)
