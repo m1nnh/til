@@ -8,7 +8,7 @@
     - [Git address](https://github.com/m1nnh/Solved-the-problem)
     - [Blog address](https://minhyeok-rithm.tistory.com/category/Algorithm)
 
-- file name : date_title
+- file name : date-title
 
     - ex) 20210203-git.md
 
