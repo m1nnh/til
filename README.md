@@ -22,3 +22,4 @@
     - [PythonGrammar](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210223-PythonGrammar.md)
     - [GreedyAlgorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210224-GreedyAlgorithm.md)
     - [Implementation](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210225-Implementation.md)
+    - [DFS/BFs](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210225-DFS:BFS.md)
