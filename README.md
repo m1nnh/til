@@ -23,3 +23,4 @@
     - [GreedyAlgorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210224-GreedyAlgorithm.md)
     - [Implementation](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210225-Implementation.md)
     - [DFS/BFS](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210225-DFS:BFS.md)
+    - [SortAlgorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210226-Sort.md)
