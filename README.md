@@ -24,3 +24,4 @@
     - [Implementation](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210225-Implementation.md)
     - [DFS/BFS](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210225-DFS:BFS.md)
     - [SortAlgorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210226-Sort.md)
+    - [BinarySearch](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210227-BinarySearch.md)
