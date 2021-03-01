@@ -19,20 +19,21 @@
 
 - 이것이 취업을 위한 코딩테스트다
 
-    - [PythonGrammar](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210223-PythonGrammar.md)
-    - [GreedyAlgorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210224-GreedyAlgorithm.md)
+    - [Python Grammar](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210223-PythonGrammar.md)
+    - [Greedy Algorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210224-GreedyAlgorithm.md)
     - [Implementation](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210225-Implementation.md)
     - [DFS/BFS](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210225-DFS:BFS.md)
-    - [SortAlgorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210226-Sort.md)
-    - [BinarySearch](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210227-BinarySearch.md)
-    - [DynamicProgramming](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210227-DynamicProgramming.md)
-    - [ShortestPath](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-ShortestPath.md)
-    - [GraphAlgorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-GraphAlgorithm.md)
-    - [EtcAlgorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-EtcAlgorithm.md)
+    - [Sort Algorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210226-Sort.md)
+    - [Binary Search Algorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210227-BinarySearch.md)
+    - [Dynamic Programming](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210227-DynamicProgramming.md)
+    - [Shortest Path](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-ShortestPath.md)
+    - [Graph Algorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-GraphAlgorithm.md)
+    - [Etc Algorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-EtcAlgorithm.md)
 
 
 #### SQLD
 
 - Part 1
 
-	- [DataModeling](https://github.com/m1nnh/TIL/blob/master/SQLD/20210301-DataModeling.md)
+	- [Data Modeling](https://github.com/m1nnh/TIL/blob/master/SQLD/20210301-DataModeling.md)
+	- [Data Models And Performance](https://github.com/m1nnh/TIL/blob/master/SQLD/20210301-DataModelsAndPerformance.md)
