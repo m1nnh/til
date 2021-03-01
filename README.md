@@ -29,3 +29,10 @@
     - [ShortestPath](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-ShortestPath.md)
     - [GraphAlgorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-GraphAlgorithm.md)
     - [EtcAlgorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-EtcAlgorithm.md)
+
+
+#### SQLD
+
+- Part 1
+
+	- [DataModeling](https://github.com/m1nnh/TIL/blob/master/SQLD/20210301-DataModeling.md)
