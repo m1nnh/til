@@ -37,3 +37,8 @@
 
 	- [Data Modeling](https://github.com/m1nnh/TIL/blob/master/SQLD/20210301-DataModeling.md)
 	- [Data Models And Performance](https://github.com/m1nnh/TIL/blob/master/SQLD/20210301-DataModelsAndPerformance.md)
+
+- Part 2
+
+	- [SQL BASIC](https://github.com/m1nnh/TIL/blob/master/SQLD/20210305-SQLBASIC.md)
+	
