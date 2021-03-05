@@ -42,5 +42,5 @@
 
 	- [SQL BASIC](https://github.com/m1nnh/TIL/blob/master/SQLD/20210305-SQLBASIC.md)
 	- [SQL APPLICATION](https://github.com/m1nnh/TIL/blob/master/SQLD/20210306-SQLAPPLICATION.md)
-
+	- [SQL OPTIMIZER AND FUNDMENTAL PRINCIPLES](https://github.com/m1nnh/TIL/blob/master/SQLD/20210306-SQLOptimizerAndFundamentalPrinciples%20.md)
 	
