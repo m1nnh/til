@@ -41,4 +41,6 @@
 - Part 2
 
 	- [SQL BASIC](https://github.com/m1nnh/TIL/blob/master/SQLD/20210305-SQLBASIC.md)
+	- [SQL APPLICATION](https://github.com/m1nnh/TIL/blob/master/SQLD/20210306-SQLAPPLICATION.md)
+
 	
