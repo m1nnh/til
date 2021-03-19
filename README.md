@@ -53,8 +53,8 @@
 	- [Variable](https://github.com/m1nnh/TIL/blob/master/Java/20210331-Variable.md)
 	- [Operator](https://github.com/m1nnh/TIL/blob/master/Java/20210404-Operator.md)
 	- [Control Statement](https://github.com/m1nnh/TIL/blob/master/Java/20210404-Control-Statement.md)
-
+	- [Array](https://github.com/m1nnh/TIL/blob/master/Java/20210405-Array.md)
 
 - Live Study
 
-	- [1주차 과제](https://github.com/m1nnh/TIL/blob/master/Java/20210405-Problem-Solved.md)
+	- [1주차 과제](https://github.com/m1nnh/TIL/blob/master/Java/20210405-LiveStudy-01.md)
