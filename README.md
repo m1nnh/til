@@ -40,9 +40,9 @@
 
 - Part 2
 
-	- [SQL BASIC](https://github.com/m1nnh/TIL/blob/master/SQLD/20210305-SQLBASIC.md)
-	- [SQL APPLICATION](https://github.com/m1nnh/TIL/blob/master/SQLD/20210306-SQLAPPLICATION.md)
-	- [SQL OPTIMIZER AND FUNDMENTAL PRINCIPLES](https://github.com/m1nnh/TIL/blob/master/SQLD/20210306-SQL-OptimizerAndFundamentalPrinciples.md)
+	- [SQL Basic](https://github.com/m1nnh/TIL/blob/master/SQLD/20210305-SQLBASIC.md)
+	- [SQL Application](https://github.com/m1nnh/TIL/blob/master/SQLD/20210306-SQLAPPLICATION.md)
+	- [SQL Optimizer and Fundmental Principles](https://github.com/m1nnh/TIL/blob/master/SQLD/20210306-SQL-OptimizerAndFundamentalPrinciples.md)
 
 	
 #### Java
