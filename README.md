@@ -55,7 +55,7 @@
 	- [Control Statement](https://github.com/m1nnh/TIL/blob/master/Java/20210404-Control-Statement.md)
 	- [Array](https://github.com/m1nnh/TIL/blob/master/Java/20210405-Array.md)
 
-- Live Study
+- [백기선님 Live Study](https://github.com/whiteship/live-study)
 
 	- [1주차 과제](https://github.com/m1nnh/TIL/blob/master/Java/20210405-LiveStudy-01.md)
 	- [2주차 과제](https://github.com/m1nnh/TIL/blob/master/Java/20210406-LiveStudy-02.md)
