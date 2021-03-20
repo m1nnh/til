@@ -58,3 +58,4 @@
 - Live Study
 
 	- [1주차 과제](https://github.com/m1nnh/TIL/blob/master/Java/20210405-LiveStudy-01.md)
+	- [2주차 과제](https://github.com/m1nnh/TIL/blob/master/Java/20210406-LiveStudy-02.md)
