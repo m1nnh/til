@@ -51,3 +51,5 @@
 
 	- [Getting Started with Java](https://github.com/m1nnh/TIL/blob/master/Java/20210330-Getting_Started_with_Java.md)
 	- [Variable](https://github.com/m1nnh/TIL/blob/master/Java/20210331-Variable.md)
+	- [Operator](https://github.com/m1nnh/TIL/blob/master/Java/20210404-Operator.md)
+	- [Control Statement](https://github.com/m1nnh/TIL/blob/master/Java/20210404-Control-Statement.md)
