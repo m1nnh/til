@@ -15,7 +15,7 @@
 ### 📂 Category
 
 
-#### Algorithm
+#### ✏️ Algorithm
 
 - 이것이 취업을 위한 코딩테스트다
 
@@ -31,7 +31,7 @@
     - [Etc Algorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-EtcAlgorithm.md)
 
 
-#### SQLD
+#### ✏️ SQLD
 
 - Part 1
 
@@ -45,7 +45,7 @@
 	- [SQL Optimizer and Fundmental Principles](https://github.com/m1nnh/TIL/blob/master/SQLD/20210306-SQL-OptimizerAndFundamentalPrinciples.md)
 
 	
-#### Java
+#### ✏️ Java
 
 - Java Jungsuk
 
