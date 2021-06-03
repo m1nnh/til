@@ -30,32 +30,60 @@
     - [Graph Algorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-GraphAlgorithm.md)
     - [Etc Algorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-EtcAlgorithm.md)
 
+#### ✏️ Computer Architecture
 
-#### ✏️ SQLD
+- 컴퓨터 구조 및 설계
+    
+    - [Computer Abstraction and Related Technologies](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210404-컴퓨터%20추상화%20및%20관련%20기술.md)
+    - [Computer Abstraction and Related Technologies Problem Solved](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210405-컴퓨터%20추상화%20및%20관련%20기술%20문제풀이.md)
+    - [Computer Language](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210405-컴퓨터%20언어.md)
 
-- Part 1
+#### ✏️ Database
 
-	- [Data Modeling](https://github.com/m1nnh/TIL/blob/master/SQLD/20210301-DataModeling.md)
-	- [Data Models And Performance](https://github.com/m1nnh/TIL/blob/master/SQLD/20210301-DataModelsAndPerformance.md)
+- SQLD
 
-- Part 2
-
-	- [SQL Basic](https://github.com/m1nnh/TIL/blob/master/SQLD/20210305-SQLBASIC.md)
-	- [SQL Application](https://github.com/m1nnh/TIL/blob/master/SQLD/20210306-SQLAPPLICATION.md)
-	- [SQL Optimizer and Fundmental Principles](https://github.com/m1nnh/TIL/blob/master/SQLD/20210306-SQL-OptimizerAndFundamentalPrinciples.md)
+	- [Data Modeling](https://github.com/m1nnh/TIL/blob/master/Database/SQLD/20210301-DataModeling.md)
+	- [Data Models And Performance](https://github.com/m1nnh/TIL/blob/master/Database/SQLD/20210301-DataModelsAndPerformance.md)
+	- [SQL Basic](https://github.com/m1nnh/TIL/blob/master/Database/SQLD/20210305-SQLBASIC.md)
+	- [SQL Application](https://github.com/m1nnh/TIL/blob/master/Database/SQLD/20210306-SQLAPPLICATION.md)
+	- [SQL Optimizer and Fundmental Principles](https://github.com/m1nnh/TIL/blob/master/Database/SQLD/20210306-SQL-OptimizerAndFundamentalPrinciples.md)
 
 	
 #### ✏️ Java
 
 - Java Jungsuk
 
-	- [Getting Started with Java](https://github.com/m1nnh/TIL/blob/master/Java/20210330-Getting_Started_with_Java.md)
-	- [Variable](https://github.com/m1nnh/TIL/blob/master/Java/20210331-Variable.md)
-	- [Operator](https://github.com/m1nnh/TIL/blob/master/Java/20210404-Operator.md)
-	- [Control Statement](https://github.com/m1nnh/TIL/blob/master/Java/20210404-Control-Statement.md)
-	- [Array](https://github.com/m1nnh/TIL/blob/master/Java/20210405-Array.md)
+	- [Getting Started with Java](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210330-Getting_Started_with_Java.md)
+	- [Variable](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210331-Variable.md)
+	- [Operator](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210404-Operator.md)
+	- [Control Statement](https://github.com/m1nnh/TIL/blob/master/JavaJava%20Jungsuk/20210404-Control-Statement.md)
+	- [Array](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210405-Array.md)
 
-- [백기선님 Live Study](https://github.com/whiteship/live-study)
+- 백기선 라이브 스터디
 
-	- [1주차 과제](https://github.com/m1nnh/TIL/blob/master/Java/20210405-LiveStudy-01.md)
-	- [2주차 과제](https://github.com/m1nnh/TIL/blob/master/Java/20210406-LiveStudy-02.md)
+	- [1주차 과제](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210405-LiveStudy-01.md)
+	- [2주차 과제](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210406-LiveStudy-02.md)
+
+#### ✏️ OOP
+
+- 스프링 입문을 위한 자바 객체 지향의 원리와 이해
+
+    - [사람을 사랑한 기술](https://github.com/m1nnh/TIL/blob/master/OOP/사람을%20사랑한%20기술.md)
+    - [자바와 절차적/구조적 프로그래밍](https://github.com/m1nnh/TIL/blob/master/OOP/자바와%20절차적:구조적%20프로그래밍.md)
+    - [OOP - 추상화](https://github.com/m1nnh/TIL/blob/master/OOP/OOP-추상화.md)
+
+#### ✏️ Spring
+
+- 스프링 입문
+
+    - [프로젝트 환경설정](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-Basic/Project-Environment.md)
+    - [스프링 웹 개발 기초](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-Basic/Spring-Web-Development-Basic.md)
+    - [회원가입 예제](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-Basic/Sign-Up-Example.md)
+#### ✏️ Server
+
+- Soft Squared 13th Server Class
+
+    - [서버개요](https://github.com/m1nnh/TIL/blob/master/Server/20210411-Server.md)
+    - [네트워크](https://github.com/m1nnh/TIL/blob/master/Server/20210418-Network.md)
+    - [DBMS](https://github.com/m1nnh/TIL/blob/master/Server/20210425-DBMS.md)
+    - [API](https://github.com/m1nnh/TIL/blob/master/Server/20210502-API.md)
