@@ -79,6 +79,7 @@
     - [프로젝트 환경설정](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-Basic/Project-Environment.md)
     - [스프링 웹 개발 기초](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-Basic/Spring-Web-Development-Basic.md)
     - [회원가입 예제](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-Basic/Sign-Up-Example.md)
+
 #### ✏️ Server
 
 - Soft Squared 13th Server Class
@@ -87,3 +88,4 @@
     - [네트워크](https://github.com/m1nnh/TIL/blob/master/Server/20210418-Network.md)
     - [DBMS](https://github.com/m1nnh/TIL/blob/master/Server/20210425-DBMS.md)
     - [API](https://github.com/m1nnh/TIL/blob/master/Server/20210502-API.md)
+    - [인증](https://github.com/m1nnh/TIL/blob/master/Server/20210509-Authentication.md)
