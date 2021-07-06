@@ -30,6 +30,7 @@
     - [Graph Algorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-GraphAlgorithm.md)
     - [Etc Algorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-EtcAlgorithm.md)
 
+
 #### ✏️ Computer Architecture
 
 - 컴퓨터 구조 및 설계
@@ -37,6 +38,7 @@
     - [Computer Abstraction and Related Technologies](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210404-컴퓨터%20추상화%20및%20관련%20기술.md)
     - [Computer Abstraction and Related Technologies Problem Solved](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210405-컴퓨터%20추상화%20및%20관련%20기술%20문제풀이.md)
     - [Computer Language](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210405-컴퓨터%20언어.md)
+
 
 #### ✏️ Database
 
@@ -61,8 +63,9 @@
 
 - 백기선 라이브 스터디
 
-	- [1주차 과제](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210405-LiveStudy-01.md)
-	- [2주차 과제](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210406-LiveStudy-02.md)
+	- [1주차 과제 - JVM은 무엇이며 잡 코드는 어떻게 실행하는 것인가](https://minhyeok-rithm.tistory.com/entry/20210405-Problem-Solved?category=871671)
+	- [2주차 과제 - 자바 데이터 타입, 변수 그릭 배열](https://minhyeok-rithm.tistory.com/entry/20210406-LiveStudy-02?category=871671)
+	- [3주차 과제 - 연산자](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210706-LiveStudy-03.md)
 
 
 ### ✏️ Network
@@ -77,6 +80,12 @@
 	- [보안](https://github.com/m1nnh/TIL/blob/master/Network/20210705-Security.md)
 
 
+### ✏️ Node.js
+	
+	- [카카오 소셜 로그인](https://github.com/m1nnh/TIL/blob/master/Node.js/20210706-Kakao-Login.md)
+	- [임시 비밀번호 발급](https://github.com/m1nnh/TIL/blob/master/Node.js/20210706-Nodemailer.md)
+	
+
 #### ✏️ OOP
 
 - 스프링 입문을 위한 자바 객체 지향의 원리와 이해
@@ -85,6 +94,7 @@
     - [자바와 절차적/구조적 프로그래밍](https://github.com/m1nnh/TIL/blob/master/OOP/자바와%20절차적:구조적%20프로그래밍.md)
     - [OOP - 추상화](https://github.com/m1nnh/TIL/blob/master/OOP/OOP-추상화.md)
 
+
 #### ✏️ Spring
 
 - 스프링 입문
@@ -92,6 +102,7 @@
     - [프로젝트 환경설정](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-Basic/Project-Environment.md)
     - [스프링 웹 개발 기초](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-Basic/Spring-Web-Development-Basic.md)
     - [회원가입 예제](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-Basic/Sign-Up-Example.md)
+
 
 #### ✏️ Server
 
