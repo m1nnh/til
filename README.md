@@ -68,7 +68,7 @@
 	- [3주차 과제 - 연산자](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210706-LiveStudy-03.md)
 
 
-### ✏️ Network
+#### ✏️ Network
 
 - TCP/IP 쉽게, 더 쉽게
 
@@ -80,8 +80,10 @@
 	- [보안](https://github.com/m1nnh/TIL/blob/master/Network/20210705-Security.md)
 
 
-### ✏️ Node.js
+#### ✏️ Node.js
 	
+- 외부 API 이용한 API 구현
+
 	- [카카오 소셜 로그인](https://github.com/m1nnh/TIL/blob/master/Node.js/20210706-Kakao-Login.md)
 	- [임시 비밀번호 발급](https://github.com/m1nnh/TIL/blob/master/Node.js/20210706-Nodemailer.md)
 	
