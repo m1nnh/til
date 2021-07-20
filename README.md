@@ -19,25 +19,25 @@
 
 - 이것이 취업을 위한 코딩테스트다
 
-    - [Python Grammar](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210223-PythonGrammar.md)
-    - [Greedy Algorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210224-GreedyAlgorithm.md)
-    - [Implementation](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210225-Implementation.md)
+    - [코딩 테스트를 위하 파이썬 문법](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210223-PythonGrammar.md)
+    - [그리디 알고리즘](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210224-GreedyAlgorithm.md)
+    - [구현](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210225-Implementation.md)
     - [DFS/BFS](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210225-DFS:BFS.md)
-    - [Sort Algorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210226-Sort.md)
-    - [Binary Search Algorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210227-BinarySearch.md)
-    - [Dynamic Programming](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210227-DynamicProgramming.md)
-    - [Shortest Path](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-ShortestPath.md)
-    - [Graph Algorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-GraphAlgorithm.md)
-    - [Etc Algorithm](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-EtcAlgorithm.md)
+    - [정렬](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210226-Sort.md)
+    - [이진 탐색](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210227-BinarySearch.md)
+    - [다이나믹 프로그래밍](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210227-DynamicProgramming.md)
+    - [최단 경로](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-ShortestPath.md)
+    - [그래프](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-GraphAlgorithm.md)
+    - [기타 알고리즘](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-EtcAlgorithm.md)
 
 
 #### ✏️ Computer Architecture
 
 - 컴퓨터 구조 및 설계
     
-    - [Computer Abstraction and Related Technologies](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210404-컴퓨터%20추상화%20및%20관련%20기술.md)
-    - [Computer Abstraction and Related Technologies Problem Solved](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210405-컴퓨터%20추상화%20및%20관련%20기술%20문제풀이.md)
-    - [Computer Language](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210405-컴퓨터%20언어.md)
+    - [컴퓨터 추상화 및 관련 기술](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210404-컴퓨터%20추상화%20및%20관련%20기술.md)
+    - [컴퓨터 추상화 및 관련 기술 문제풀이](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210405-컴퓨터%20추상화%20및%20관련%20기술%20문제풀이.md)
+    - [컴퓨터 언어](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210405-컴퓨터%20언어.md)
 
 
 #### ✏️ Database
@@ -55,15 +55,16 @@
 
 - Java Jungsuk
 
-	- [Getting Started with Java](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210330-Getting_Started_with_Java.md)
-	- [Variable](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210331-Variable.md)
-	- [Operator](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210404-Operator.md)
-	- [Control Statement](https://github.com/m1nnh/TIL/blob/master/JavaJava%20Jungsuk/20210404-Control-Statement.md)
-	- [Array](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210405-Array.md)
-	- [Object-Oriented Programming 1](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210709-OOP1.md)
-	- [Object-Oriented Programming 2](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210714-OOP2.md)
-	- [Exception Handling](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210714-Exception%20Handling.md)
-	- [Java Package and Class](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210714-java.lang%20Package.md)
+	- [자바를 시작하기 전에](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210330-Getting_Started_with_Java.md)
+	- [변수](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210331-Variable.md)
+	- [연산자](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210404-Operator.md)
+	- [조건문과 반복문](https://github.com/m1nnh/TIL/blob/master/JavaJava%20Jungsuk/20210404-Control-Statement.md)
+	- [배열](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210405-Array.md)
+	- [객체지향 프로그래밍 1](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210709-OOP1.md)
+	- [객체지향 프로그래밍 2](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210714-OOP2.md)
+	- [예외 처리](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210714-Exception%20Handling.md)
+	- [자바 패키지와 클래스](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210714-java.lang%20Package.md)
+	- [날짜와 시간 & 형식화](https://github.com/m1nnh/TIL/blob/master/Java/Java%20Jungsuk/20210720-Day-Time%20and%20Formatting.md)
 
 - 백기선 라이브 스터디
 
@@ -72,6 +73,10 @@
 	- [3주차 과제 - 연산자](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210706-LiveStudy-03.md)
 	- [4주차 과제 - 제어문](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210708-LiveStudy-04.md)
 	- [5주차 과제 - 클래스](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210714-LiveStudy-05.md)
+	- [6주차 과제 - 상속](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210717-LiveStudy-06.md)
+	- [7주차 과제 - 패키지](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210718-LiveStudy-07.md)
+	- [8주차 과제 - 인터페이스](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210718-LiveStudy-08.md)
+	- [9주차 과제 - 예오 처리](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210718-LiveStudy-09.md)
 
 #### ✏️ Network
 
