@@ -1,4 +1,4 @@
-## :date: Today i learned
+## :date: Today I learned
 
 ### :ballot_box_with_check: Rule
 
