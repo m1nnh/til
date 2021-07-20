@@ -76,7 +76,7 @@
 	- [6주차 과제 - 상속](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210717-LiveStudy-06.md)
 	- [7주차 과제 - 패키지](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210718-LiveStudy-07.md)
 	- [8주차 과제 - 인터페이스](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210718-LiveStudy-08.md)
-	- [9주차 과제 - 예오 처리](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210718-LiveStudy-09.md)
+	- [9주차 과제 - 예외 처리](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210718-LiveStudy-09.md)
 
 #### ✏️ Network
 
@@ -114,6 +114,11 @@
     - [프로젝트 환경설정](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-Basic/Project-Environment.md)
     - [스프링 웹 개발 기초](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-Basic/Spring-Web-Development-Basic.md)
     - [회원가입 예제](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-Basic/Sign-Up-Example.md)
+
+- 스프링 MVC
+
+	- [Maven Spring MVC 초기 환경설정](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-MVC/20210719-Spring-Environment.md)
+	- [Servlet](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-MVC/20210720-Servlet.md)
 
 
 #### ✏️ Server
