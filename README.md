@@ -68,8 +68,8 @@
 
 - 백기선 라이브 스터디
 
-	- [1주차 과제 - JVM은 무엇이며 잡 코드는 어떻게 실행하는 것인가](https://minhyeok-rithm.tistory.com/entry/20210405-Problem-Solved?category=871671)
-	- [2주차 과제 - 자바 데이터 타입, 변수 그릭 배열](https://minhyeok-rithm.tistory.com/entry/20210406-LiveStudy-02?category=871671)
+	- [1주차 과제 - JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가](https://minhyeok-rithm.tistory.com/entry/20210405-Problem-Solved?category=871671)
+	- [2주차 과제 - 자바 데이터 타입, 변수 그리고 배열](https://minhyeok-rithm.tistory.com/entry/20210406-LiveStudy-02?category=871671)
 	- [3주차 과제 - 연산자](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210706-LiveStudy-03.md)
 	- [4주차 과제 - 제어문](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210708-LiveStudy-04.md)
 	- [5주차 과제 - 클래스](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210714-LiveStudy-05.md)
