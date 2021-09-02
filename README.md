@@ -45,6 +45,18 @@
   - [SQL Application](https://github.com/m1nnh/TIL/blob/master/Database/SQLD/20210306-SQLAPPLICATION.md)
   - [SQL Optimizer and Fundmental Principles](https://github.com/m1nnh/TIL/blob/master/Database/SQLD/20210306-SQL-OptimizerAndFundamentalPrinciples.md)
 
+- Tech Interview Study
+
+  - [키(Key) 정리](https://github.com/m1nnh/TIL/blob/master/Database/20210831-Key.md)
+  - [SQL - JOIN](https://github.com/m1nnh/TIL/blob/master/Database/20210831-Join.md)
+  - [SQL Injection](https://github.com/m1nnh/TIL/blob/master/Database/20210901-SQL%20Injection.md)
+  - [SQL vs NoSQL](https://github.com/m1nnh/TIL/blob/master/Database/20210901-SQLvsNOSQL.md)
+  - [이상(Anomaly)](https://github.com/m1nnh/TIL/blob/master/Database/20210901-Anomaly.md)
+  - [인덱스(Index)](https://github.com/m1nnh/TIL/blob/master/Database/20210901-Index.md)
+  - [트랜잭션(Transaction)](https://github.com/m1nnh/TIL/blob/master/Database/20210902-Transaction.md)
+  - [트랜잭션 격리 수준(Transaction Isolation Level)](https://github.com/m1nnh/TIL/blob/master/Database/20210902-Transaction%20Isolation%20Level.md)
+  - [Redis](https://github.com/m1nnh/TIL/blob/master/Database/20210902-Redis.md)
+
 #### ✏️ Java
 
 - Java Jungsuk
