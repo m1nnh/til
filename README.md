@@ -11,31 +11,26 @@
 
   - ex) 20210203-git.md
 
-### 📂 Category
+### ✏️ Algorithm
 
-#### ✏️ Algorithm
+- [코딩 테스트를 위하 파이썬 문법](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210223-PythonGrammar.md)
+- [그리디 알고리즘](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210224-GreedyAlgorithm.md)
+- [구현](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210225-Implementation.md)
+- [DFS/BFS](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210225-DFS:BFS.md)
+- [정렬](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210226-Sort.md)
+- [이진 탐색](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210227-BinarySearch.md)
+- [다이나믹 프로그래밍](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210227-DynamicProgramming.md)
+- [최단 경로](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-ShortestPath.md)
+- [그래프](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-GraphAlgorithm.md)
+- [기타 알고리즘](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-EtcAlgorithm.md)
 
-- 이것이 취업을 위한 코딩테스트다
+### ✏️ Computer Architecture
 
-  - [코딩 테스트를 위하 파이썬 문법](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210223-PythonGrammar.md)
-  - [그리디 알고리즘](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210224-GreedyAlgorithm.md)
-  - [구현](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210225-Implementation.md)
-  - [DFS/BFS](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210225-DFS:BFS.md)
-  - [정렬](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210226-Sort.md)
-  - [이진 탐색](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210227-BinarySearch.md)
-  - [다이나믹 프로그래밍](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210227-DynamicProgramming.md)
-  - [최단 경로](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-ShortestPath.md)
-  - [그래프](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-GraphAlgorithm.md)
-  - [기타 알고리즘](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-EtcAlgorithm.md)
+- [컴퓨터 추상화 및 관련 기술](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210404-컴퓨터%20추상화%20및%20관련%20기술.md)
+- [컴퓨터 추상화 및 관련 기술 문제풀이](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210405-컴퓨터%20추상화%20및%20관련%20기술%20문제풀이.md)
+- [컴퓨터 언어](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210405-컴퓨터%20언어.md)
 
-#### ✏️ Computer Architecture
-
-- 컴퓨터 구조 및 설계
-  - [컴퓨터 추상화 및 관련 기술](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210404-컴퓨터%20추상화%20및%20관련%20기술.md)
-  - [컴퓨터 추상화 및 관련 기술 문제풀이](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210405-컴퓨터%20추상화%20및%20관련%20기술%20문제풀이.md)
-  - [컴퓨터 언어](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210405-컴퓨터%20언어.md)
-
-#### ✏️ Database
+### ✏️ Database
 
 - SQLD
 
@@ -57,7 +52,7 @@
   - [트랜잭션 격리 수준(Transaction Isolation Level)](https://github.com/m1nnh/TIL/blob/master/Database/20210902-Transaction%20Isolation%20Level.md)
   - [Redis](https://github.com/m1nnh/TIL/blob/master/Database/20210902-Redis.md)
 
-#### ✏️ Java
+### ✏️ Java
 
 - Java Jungsuk
 
@@ -90,51 +85,43 @@
   - [8주차 과제 - 인터페이스](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210718-LiveStudy-08.md)
   - [9주차 과제 - 예외 처리](https://github.com/m1nnh/TIL/blob/master/Java/백기선%20Live%20Study/20210718-LiveStudy-09.md)
 
-#### ✏️ Network
+### ✏️ Network
 
-- TCP/IP 쉽게, 더 쉽게
+- [컴퓨터 네트워크](https://github.com/m1nnh/TIL/blob/master/Network/20210630-Computer-Network.md)
+- [네트워크 서비스와 애플리케이션 계층](https://github.com/m1nnh/TIL/blob/master/Network/20210701-Application-Layer.md)
+- [트랜스포트 계층](https://github.com/m1nnh/TIL/blob/master/Network/20210702-Transport-Layer.md)
+- [라우팅과 인터넷 계층](https://github.com/m1nnh/TIL/blob/master/Network/20210704-Internet-Layer.md)
+- [하드웨어와 네트워크 인터페이스 계층](https://github.com/m1nnh/TIL/blob/master/Network/20210705-Network-Interface-Layer.md)
+- [보안](https://github.com/m1nnh/TIL/blob/master/Network/20210705-Security.md)
 
-  - [컴퓨터 네트워크](https://github.com/m1nnh/TIL/blob/master/Network/20210630-Computer-Network.md)
-  - [네트워크 서비스와 애플리케이션 계층](https://github.com/m1nnh/TIL/blob/master/Network/20210701-Application-Layer.md)
-  - [트랜스포트 계층](https://github.com/m1nnh/TIL/blob/master/Network/20210702-Transport-Layer.md)
-  - [라우팅과 인터넷 계층](https://github.com/m1nnh/TIL/blob/master/Network/20210704-Internet-Layer.md)
-  - [하드웨어와 네트워크 인터페이스 계층](https://github.com/m1nnh/TIL/blob/master/Network/20210705-Network-Interface-Layer.md)
-  - [보안](https://github.com/m1nnh/TIL/blob/master/Network/20210705-Security.md)
+### ✏️ Node.js
 
-#### ✏️ Node.js
+- [카카오 소셜 로그인](https://github.com/m1nnh/TIL/blob/master/Node.js/20210706-Kakao-Login.md)
+- [임시 비밀번호 발급](https://github.com/m1nnh/TIL/blob/master/Node.js/20210706-Nodemailer.md)
 
-- 외부 API 이용한 API 구현
+### ✏️ OOP
 
-  - [카카오 소셜 로그인](https://github.com/m1nnh/TIL/blob/master/Node.js/20210706-Kakao-Login.md)
-  - [임시 비밀번호 발급](https://github.com/m1nnh/TIL/blob/master/Node.js/20210706-Nodemailer.md)
+- [사람을 사랑한 기술](https://github.com/m1nnh/TIL/blob/master/OOP/사람을%20사랑한%20기술.md)
+- [자바와 절차적/구조적 프로그래밍](https://github.com/m1nnh/TIL/blob/master/OOP/자바와%20절차적:구조적%20프로그래밍.md)
+- [OOP - 추상화](https://github.com/m1nnh/TIL/blob/master/OOP/OOP-추상화.md)
 
-#### ✏️ OOP
+### ✏️ Operating System
 
-- 스프링 입문을 위한 자바 객체 지향의 원리와 이해
+- [운영체제란 무엇인가](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210803-운영체제란%20무엇인가.md)
+- [컴퓨터 시스템 구조와 프로그램 실행](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210804-컴퓨터%20시스템%20구조와%20프로그램%20실행.md)
+- [프로세스](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210806-프로세스.md)
+- [프로세스 관리](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210808-프로세스%20관리.md)
+- [CPU 스케줄링](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210809-CPU%20Scheduling.md)
+- [프로세스 동기화](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210810-프로세스%20동기화.md)
+- [프로세스 동기화 문제](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210810-프로세스%20동기화.md)
+- [교착 상태](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210810-교착%20상태.md)
+- [메모리 관리](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210811-메모리%20관리.md)
+- [가상 메모리](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210811-가상%20메모리.md)
+- [파일 시스템](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210812-파일%20시스템.md)
+- [파일 시스템 구현](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210812-파일%20시스템%20구현.md)
+- [디스크 관리](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210812-디스크%20관리.md)
 
-  - [사람을 사랑한 기술](https://github.com/m1nnh/TIL/blob/master/OOP/사람을%20사랑한%20기술.md)
-  - [자바와 절차적/구조적 프로그래밍](https://github.com/m1nnh/TIL/blob/master/OOP/자바와%20절차적:구조적%20프로그래밍.md)
-  - [OOP - 추상화](https://github.com/m1nnh/TIL/blob/master/OOP/OOP-추상화.md)
-
-#### ✏️ Operating System
-
-- KOCW 반효경 교수님 운영체제 강의
-
-  - [운영체제란 무엇인가](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210803-운영체제란%20무엇인가.md)
-  - [컴퓨터 시스템 구조와 프로그램 실행](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210804-컴퓨터%20시스템%20구조와%20프로그램%20실행.md)
-  - [프로세스](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210806-프로세스.md)
-  - [프로세스 관리](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210808-프로세스%20관리.md)
-  - [CPU 스케줄링](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210809-CPU%20Scheduling.md)
-  - [프로세스 동기화](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210810-프로세스%20동기화.md)
-  - [프로세스 동기화 문제](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210810-프로세스%20동기화.md)
-  - [교착 상태](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210810-교착%20상태.md)
-  - [메모리 관리](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210811-메모리%20관리.md)
-  - [가상 메모리](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210811-가상%20메모리.md)
-  - [파일 시스템](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210812-파일%20시스템.md)
-  - [파일 시스템 구현](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210812-파일%20시스템%20구현.md)
-  - [디스크 관리](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210812-디스크%20관리.md)
-
-#### ✏️ Server
+### ✏️ Server
 
 - Soft Squared 13th Server Class
 
@@ -144,7 +131,19 @@
   - [API](https://github.com/m1nnh/TIL/blob/master/Server/20210502-API.md)
   - [인증](https://github.com/m1nnh/TIL/blob/master/Server/20210509-Authentication.md)
 
-#### ✏️ Spring
+### ✏️ Software Enginerring
+
+- [클린코드와 리팩토링](https://github.com/m1nnh/TIL/blob/master/Software%20Engineering/20210906-Clean%20Code%20%26%20Refactoring.md)
+- [클린코드와 시큐어코딩](https://github.com/m1nnh/TIL/blob/master/Software%20Engineering/20210906-Clean%20Code%20%26%20Secure%20Coding.md)
+- [TDD](https://github.com/m1nnh/TIL/blob/master/Software%20Engineering/20210906-TDD.md)
+- [애자일1](https://github.com/m1nnh/TIL/blob/master/Software%20Engineering/20210907-Agile1.md)
+- [애자일2](https://github.com/m1nnh/TIL/blob/master/Software%20Engineering/20210907-Agile2.md)
+- [OOP](https://github.com/m1nnh/TIL/blob/master/Software%20Engineering/20210907-OOP.md)
+- [DevOps](https://github.com/m1nnh/TIL/blob/master/Software%20Engineering/20210907-DevOps.md)
+- [3rd party](https://github.com/m1nnh/TIL/blob/master/Software%20Engineering/20210907-3rd%20party.md)
+- [MSA](https://github.com/m1nnh/TIL/blob/master/Software%20Engineering/20210907-MSA.md)
+
+### ✏️ Spring
 
 - 스프링 입문
 
