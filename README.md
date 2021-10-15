@@ -1,15 +1,16 @@
 ## :date: Today I learned
 
-### :ballot_box_with_check: Rule
-
-- Let's solve the algorithm problem every day
-
-  - [Git address](https://github.com/m1nnh/Solved-the-problem)
-  - [Blog address](https://minhyeok-rithm.tistory.com/category/Algorithm)
+### ✅ Rule
 
 - file name : date-title
-
   - ex) 20210203-git.md
+
+```
+Docs: 문서와 관련된 모든 것
+Rename: 단순한 파일명 변경
+Update: 파일 내용 변경
+Remove: 파일 삭제
+```
 
 ### ✏️ Algorithm
 
@@ -24,33 +25,17 @@
 - [그래프](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-GraphAlgorithm.md)
 - [기타 알고리즘](https://github.com/m1nnh/TIL/blob/master/Algorithm/20210228-EtcAlgorithm.md)
 
-### ✏️ Computer Architecture
-
-- [컴퓨터 추상화 및 관련 기술](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210404-컴퓨터%20추상화%20및%20관련%20기술.md)
-- [컴퓨터 추상화 및 관련 기술 문제풀이](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210405-컴퓨터%20추상화%20및%20관련%20기술%20문제풀이.md)
-- [컴퓨터 언어](https://github.com/m1nnh/TIL/blob/master/Computer%20Architecture/20210405-컴퓨터%20언어.md)
-
 ### ✏️ Database
 
-- SQLD
-
-  - [Data Modeling](https://github.com/m1nnh/TIL/blob/master/Database/SQLD/20210301-DataModeling.md)
-  - [Data Models And Performance](https://github.com/m1nnh/TIL/blob/master/Database/SQLD/20210301-DataModelsAndPerformance.md)
-  - [SQL Basic](https://github.com/m1nnh/TIL/blob/master/Database/SQLD/20210305-SQLBASIC.md)
-  - [SQL Application](https://github.com/m1nnh/TIL/blob/master/Database/SQLD/20210306-SQLAPPLICATION.md)
-  - [SQL Optimizer and Fundmental Principles](https://github.com/m1nnh/TIL/blob/master/Database/SQLD/20210306-SQL-OptimizerAndFundamentalPrinciples.md)
-
-- Tech Interview Study
-
-  - [키(Key) 정리](https://github.com/m1nnh/TIL/blob/master/Database/20210831-Key.md)
-  - [SQL - JOIN](https://github.com/m1nnh/TIL/blob/master/Database/20210831-Join.md)
-  - [SQL Injection](https://github.com/m1nnh/TIL/blob/master/Database/20210901-SQL%20Injection.md)
-  - [SQL vs NoSQL](https://github.com/m1nnh/TIL/blob/master/Database/20210901-SQLvsNOSQL.md)
-  - [이상(Anomaly)](https://github.com/m1nnh/TIL/blob/master/Database/20210901-Anomaly.md)
-  - [인덱스(Index)](https://github.com/m1nnh/TIL/blob/master/Database/20210901-Index.md)
-  - [트랜잭션(Transaction)](https://github.com/m1nnh/TIL/blob/master/Database/20210902-Transaction.md)
-  - [트랜잭션 격리 수준(Transaction Isolation Level)](https://github.com/m1nnh/TIL/blob/master/Database/20210902-Transaction%20Isolation%20Level.md)
-  - [Redis](https://github.com/m1nnh/TIL/blob/master/Database/20210902-Redis.md)
+- [키(Key) 정리](https://github.com/m1nnh/TIL/blob/master/Database/20210831-Key.md)
+- [SQL - JOIN](https://github.com/m1nnh/TIL/blob/master/Database/20210831-Join.md)
+- [SQL Injection](https://github.com/m1nnh/TIL/blob/master/Database/20210901-SQL%20Injection.md)
+- [SQL vs NoSQL](https://github.com/m1nnh/TIL/blob/master/Database/20210901-SQLvsNOSQL.md)
+- [이상(Anomaly)](https://github.com/m1nnh/TIL/blob/master/Database/20210901-Anomaly.md)
+- [인덱스(Index)](https://github.com/m1nnh/TIL/blob/master/Database/20210901-Index.md)
+- [트랜잭션(Transaction)](https://github.com/m1nnh/TIL/blob/master/Database/20210902-Transaction.md)
+- [트랜잭션 격리 수준(Transaction Isolation Level)](https://github.com/m1nnh/TIL/blob/master/Database/20210902-Transaction%20Isolation%20Level.md)
+- [Redis](https://github.com/m1nnh/TIL/blob/master/Database/20210902-Redis.md)
 
 ### ✏️ Java
 
@@ -99,12 +84,6 @@
 - [카카오 소셜 로그인](https://github.com/m1nnh/TIL/blob/master/Node.js/20210706-Kakao-Login.md)
 - [임시 비밀번호 발급](https://github.com/m1nnh/TIL/blob/master/Node.js/20210706-Nodemailer.md)
 
-### ✏️ OOP
-
-- [사람을 사랑한 기술](https://github.com/m1nnh/TIL/blob/master/OOP/사람을%20사랑한%20기술.md)
-- [자바와 절차적/구조적 프로그래밍](https://github.com/m1nnh/TIL/blob/master/OOP/자바와%20절차적:구조적%20프로그래밍.md)
-- [OOP - 추상화](https://github.com/m1nnh/TIL/blob/master/OOP/OOP-추상화.md)
-
 ### ✏️ Operating System
 
 - [운영체제란 무엇인가](https://github.com/m1nnh/TIL/blob/master/Operating%20System/20210803-운영체제란%20무엇인가.md)
@@ -123,13 +102,11 @@
 
 ### ✏️ Server
 
-- Soft Squared 13th Server Class
-
-  - [서버개요](https://github.com/m1nnh/TIL/blob/master/Server/20210411-Server.md)
-  - [네트워크](https://github.com/m1nnh/TIL/blob/master/Server/20210418-Network.md)
-  - [DBMS](https://github.com/m1nnh/TIL/blob/master/Server/20210425-DBMS.md)
-  - [API](https://github.com/m1nnh/TIL/blob/master/Server/20210502-API.md)
-  - [인증](https://github.com/m1nnh/TIL/blob/master/Server/20210509-Authentication.md)
+- [서버개요](https://github.com/m1nnh/TIL/blob/master/Server/20210411-Server.md)
+- [네트워크](https://github.com/m1nnh/TIL/blob/master/Server/20210418-Network.md)
+- [DBMS](https://github.com/m1nnh/TIL/blob/master/Server/20210425-DBMS.md)
+- [API](https://github.com/m1nnh/TIL/blob/master/Server/20210502-API.md)
+- [인증](https://github.com/m1nnh/TIL/blob/master/Server/20210509-Authentication.md)
 
 ### ✏️ Software Enginerring
 
@@ -145,15 +122,7 @@
 
 ### ✏️ Spring
 
-- 스프링 입문
-
-  - [프로젝트 환경설정](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-Basic/Project-Environment.md)
-  - [스프링 웹 개발 기초](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-Basic/Spring-Web-Development-Basic.md)
-  - [회원가입 예제](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-Basic/Sign-Up-Example.md)
-
-- 스프링 MVC
-
-  - [Maven Spring MVC 초기 환경설정](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-MVC/20210719-Spring-Environment.md)
-  - [Servlet](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-MVC/20210720-Servlet.md)
-  - [Maven Spring MVC 자바 파일 환경설정](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-MVC/20210727-Maven-Environment.md)
-  - [MyBatis](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-MVC/20210727-MyBatis.md)
+- [Spring MVC XML 환경설정](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-MVC/20210719-Spring-Environment.md)
+- [Servlet](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-MVC/20210720-Servlet.md)
+- [Maven Spring MVC 자바 파일 환경설정](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-MVC/20210727-Maven-Environment.md)
+- [MyBatis](https://github.com/m1nnh/TIL/blob/master/Spring/Spring-MVC/20210727-MyBatis.md)
